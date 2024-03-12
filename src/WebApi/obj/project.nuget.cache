@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w9Et/cVLC3r8ykNMUdYI9EjMO1vcKz1LT+4zcmdnTMpj2BC+WNlGsoljkqLN5XgXSiHMTMOZxFYLDGljWsu5IQ==",
+  "dgSpecHash": "DmyPYnwNB9Nc+2WZCambJ8QZnfDHhSv4d2JIjN/x+uaLXBWLqsYQmyCwSo7dRx1uWxFz8lNnu2K47dpjlK1eBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahan_Owji\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Mahan_Owji\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

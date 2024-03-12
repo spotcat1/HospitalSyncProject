@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Application\\Application.csproj": {
+    "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Mahan_Owji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahan_Owji\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Domain\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Domain\\Domain\\Domain.csproj"
+              "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Domain\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Domain\\Domain\\Domain.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Domain\\Domain\\Domain.csproj": {
+    "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Domain\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Domain\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Domain\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Domain\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Domain\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Mahan_Owji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Domain\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Domain\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahan_Owji\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Mahan_Owji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahan_Owji\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,8 +166,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Application\\Application.csproj"
+              "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Application\\Application.csproj"
               }
             }
           }
@@ -233,14 +233,14 @@
         }
       }
     },
-    "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Mahan_Owji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahan_Owji\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -257,11 +257,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Domain\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Domain\\Domain\\Domain.csproj"
+              "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Domain\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Domain\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

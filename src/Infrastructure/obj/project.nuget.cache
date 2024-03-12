@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SRU9MgUKYRm5t07UMkhKcl/p0dsgiL5PQYydcllMbU/Or9JZAij5X8HDokBC2o6awPUjVpL/XNa3C47jOzBpMw==",
+  "dgSpecHash": "4RBGRanZqCF9zF9c0Z+cMviFyuvQ5m2H/MkHc15gpBLe1++2ZINPSwSdc0IbLDtuJsTtF0dTbbxmHajQBqRYJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahan_Owji\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Mahan_Owji\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

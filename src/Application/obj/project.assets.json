@@ -1005,11 +1005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Mahan_Owji\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mahan_Owji\\Source\\Repos\\HospitalSync\\src\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahan_Owji\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1026,8 +1026,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Domain\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\Domain\\Domain\\Domain.csproj"
+            "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Domain\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSyncProject\\src\\Domain\\Domain\\Domain.csproj"
             }
           }
         }
