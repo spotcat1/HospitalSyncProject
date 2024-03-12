@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_0af2a5c9a2b94baa8467e2e74ee37f58.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_0af2a5c9a2b94baa8467e2e74ee37f58.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_1125a9ca0b454b09bf9ab510e60ed124.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_1125a9ca0b454b09bf9ab510e60ed124.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_19621d1bf3974bde91f30172fa391380.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_19621d1bf3974bde91f30172fa391380.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_1a4d73f58cba4228af3bcb11bbab0901.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_1a4d73f58cba4228af3bcb11bbab0901.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_1d28cfb26e1d49eda99ad421497d7f5a.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_1d28cfb26e1d49eda99ad421497d7f5a.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_2b3a340b3d9f447582b8cdb82e461059.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_2b3a340b3d9f447582b8cdb82e461059.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_41c5deb268d44c1998b60b0496b2f359.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_41c5deb268d44c1998b60b0496b2f359.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_4de5315e032147e09f80f0001b8fb27b.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_4de5315e032147e09f80f0001b8fb27b.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_7427c94b12b94090aff52aae36b709da.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_7427c94b12b94090aff52aae36b709da.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_93d610d6727e48b09559e12b712db295.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_93d610d6727e48b09559e12b712db295.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_9de56c5461f34334b802ee19a97434dd.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_9de56c5461f34334b802ee19a97434dd.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_a88424fe77fc4177bcb570bb2dd84680.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_a88424fe77fc4177bcb570bb2dd84680.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_c1e354c1c3804bf18f0fec757d00b3a3.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_c1e354c1c3804bf18f0fec757d00b3a3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_e41a72679c8f49f69e406074cfc5a42d.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_e41a72679c8f49f69e406074cfc5a42d.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahan_Owji\\source\\repos\\HospitalSync\\src\\WebApi\\wwwroot\\images\\users\\user_e7cb08095e6f4802959ff58adec491d5.png",
+      "PackagePath": "staticwebassets\\images\\users\\user_e7cb08095e6f4802959ff58adec491d5.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApi.props",
+      "PackagePath": "build\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApi.props",
+      "PackagePath": "buildTransitive\\WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
